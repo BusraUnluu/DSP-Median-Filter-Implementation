@@ -1,6 +1,6 @@
-# DSP-Median-Filter-Implementation
+# DIP-Median-Filter-Implementation
 
-Digital Signal Processing, Median Filtering and Center weighted Median Filter Implementation
+Digital Image Processing, Median Filtering and Center weighted Median Filter Implementation
 
 In this project, two different (median filter and weighted Median Filter) filtering algorithms are implemented. These algortihms are tested on salt and paper noise (noisyImage.jpg) and the results compared with Opencv(cv.boxFilter,cv.GaussianBlur,cv.medianBlur) fuctions. Their PSNR values(with comparing gold standard image(lena_grayscale_hq.jpg)) are compared. Finally, the highest PSNR value is obtained from  weighted median filter.
 
